@@ -1,0 +1,11 @@
+# Application Specific
+lib
+
+# OS
+.DS_Store
+
+# JS
+node_modules
+
+# Editors
+.idea
