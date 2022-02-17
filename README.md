@@ -15,7 +15,7 @@ The first paint will not contain styles that have used v-bind. Due to ```@vue/se
 This minimum reproducible example requires a server side rendered app. To run the app run the command
 ```npm start```
 
-This will produce a server-side app running on ``` http://localhost:3000/:3000 ````
+This will produce a server-side app running on ``` http://localhost:3000 ````
 
 You should then be able to see the inline styled v-bind variables having an invalid syntax
 
